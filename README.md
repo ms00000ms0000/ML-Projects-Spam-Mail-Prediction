@@ -72,10 +72,9 @@ It provides a **lightweight, fast, and scalable** solution suitable for integrat
 ```
 📦 ML-Projects-Spam-Mail-Prediction
 │
-├── Spam_Mail_Prediction.ipynb # Complete model implementation
-├── spam.csv # Dataset used for training and testing
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+├── Spam_Mail_Prediction.ipynb                                            # Complete model implementation
+├── spammail.csv                                                          # Dataset used for training and testing
+└── README.md                                                             # Project documentation
 ```
 
 ---
